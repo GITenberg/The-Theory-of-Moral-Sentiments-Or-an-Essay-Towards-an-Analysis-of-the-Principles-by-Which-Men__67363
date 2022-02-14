@@ -1,0 +1,32 @@
+_repo: The-Theory-of-Moral-Sentiments-Or-an-Essay-Towards-an-Analysis-of-the-Principles-by-Which-Men__67363
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Smith, Adam
+    birthdate: 1723
+    deathdate: 1790
+    gutenberg_agent_id: '1158'
+    url: http://www.gutenberg.org/2009/agents/1158
+    wikipedia: https://en.wikipedia.org/wiki/Adam_Smith
+description: ''
+gutenberg_issued: '2022-02-09'
+identifiers:
+  gutenberg: '67363'
+language: en
+pgterms:marc904: https://archive.org/details/theoryofmoralsen00smit
+pgterms:marc905: 20200615160823smith
+pgterms:marc906: '1777'
+pgterms:marc907: IE
+production_note: Richard Tonsing and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by The Internet Archive)
+publication_note: Ireland :J. Beatty and C. Jackson,1777.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'The Theory of Moral Sentiments: Or, an Essay Towards an Analysis of the Principles
+  by Which Men Naturally Judge Concerning the Conduct and Character, First of Their
+  Neighbours, and Afterwards of Themselves. to Which Is Added, a Dissertation on the
+  Origin of Languages.'
+url: http://www.gutenberg.org/ebooks/67363

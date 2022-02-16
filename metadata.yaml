@@ -1,5 +1,8 @@
 _repo: The-Theory-of-Moral-Sentiments-Or-an-Essay-Towards-an-Analysis-of-the-Principles-by-Which-Men__67363
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 67363-h/images/cover.jpg
 creator:
   author:
     agent_name: Smith, Adam
@@ -9,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1158
     wikipedia: https://en.wikipedia.org/wiki/Adam_Smith
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/67363#The-Theory-of-Moral-Sentiments-Or-an-Essay-Towards-an-Analysis-of-the-Principles-by-Which-Men_
 gutenberg_issued: '2022-02-09'
 identifiers:
   gutenberg: '67363'
